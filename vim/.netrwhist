@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/linzichuan/Desktop/jisuanke_internship/communicate/src/static'
+let g:netrw_dirhist_2='/Users/linzichuan/Desktop/jisuanke_internship/vst'
+let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_4='/Users/linzichuan/Desktop'
