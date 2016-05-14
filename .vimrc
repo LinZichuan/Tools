@@ -1,3 +1,4 @@
+set t_Co=256
 "set fileencodings=gb18030
 ",ucs-bom,utf-8,cp936,,big5,euc-jp,euc-kr,latin1
 "filetype plugin indent on
