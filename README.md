@@ -24,3 +24,9 @@ git config --global alias.ct commit
 git config --global alias.df diff
 git config --global alias.br branch
 ```
+
+## vim颜色风格配置
+```bash
+cp -r Tools/vim ~/.vim
+cp Tools/.vimrc ~/
+```
